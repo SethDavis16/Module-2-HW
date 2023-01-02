@@ -6,16 +6,13 @@ Description
 
 A webpage designed to showcase various projects along with the ability to learn a little about Seth Davis 
 ---
-Features
-Home feature layout allows for an easy access between different catagories of marketing strategies.
----
 Deployed URL
 
-https://sethdavis16.github.io/Horiseon-Home-Page/
+https://sethdavis16.github.io/Seths-Portfolio/
 ---
 Link to Repository
 
-https://github.com/SethDavis16/Horiseon-Home-Page
+https://github.com/SethDavis16/Seths-Portfolio
 ---
 Requirements
 
